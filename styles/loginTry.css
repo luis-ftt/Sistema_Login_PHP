@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.LoginTry-h1{
+    color:red; 
+    font-size:70px;
+    text-shadow:2px 1px 1px black
+}
+.LoginTry-href{
+    font-size: 35px;
+    text-decoration:underline; 
+    color:black;
+}
+.LoginTry-href:hover{
+    text-decoration: none;
+}
